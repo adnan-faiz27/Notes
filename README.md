@@ -1,2 +1,2 @@
 # Notes
-https://adnan-faiz27.github.io/Notes/
+ https://adnan-faiz27.github.io/Notes/
